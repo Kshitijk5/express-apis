@@ -1,0 +1,24 @@
+{
+  "name": "express-apis",
+  "version": "1.0.0",
+  "description": "A test app for learning how RESTful apis are made using express.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kshitijk5/express-apis.git"
+  },
+  "author": "kshitij",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kshitijk5/express-apis/issues"
+  },
+  "homepage": "https://github.com/Kshitijk5/express-apis#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
